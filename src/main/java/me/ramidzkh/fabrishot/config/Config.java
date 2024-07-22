@@ -42,8 +42,8 @@ public class Config {
     public static boolean HIDE_HUD = false;
     public static boolean SAVE_FILE = true;
     public static boolean DISABLE_GUI_SCALING = false;
-    public static int CAPTURE_WIDTH = 3840;
-    public static int CAPTURE_HEIGHT = 2160;
+    public static int CAPTURE_WIDTH = 38400;
+    public static int CAPTURE_HEIGHT = 21600;
     public static int CAPTURE_DELAY = 3;
     public static FileFormat CAPTURE_FILE_FORMAT = FileFormat.PNG;
 
